@@ -80,7 +80,7 @@ body {
 }
 
 .itmc-logo {
-    position: absolute;
+    position: fixed;
     top: 3vh;
     left: 3vh;
     width: 15vh;
